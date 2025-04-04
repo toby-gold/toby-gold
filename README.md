@@ -7,7 +7,7 @@
 - 🛠️ Tools I use: `Excel`, `SQL`, `Power BI`, `Tableau`, `Google Sheets`
 - 🧠 Always asking: “What story is this data trying to tell?”
 - 🌱 Currently exploring: **Python for Data Analysis** & **AI in BI**
-- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/tolulope-odesanmi-9b00a2309/)
+- 📬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/toby-gold/)
 
 ---
 ### 🧰 Tech Toolbox  
@@ -44,6 +44,6 @@
 ### 📫 How to Reach Me
 
 📧 **Email**: [toubhi@gmail.com](mailto:toubhi@gmail.com)  
-💼 **LinkedIn**: [Tolulope Odesanmi](https://www.linkedin.com/in/tolulope-odesanmi-9b00a2309/)
+💼 **LinkedIn**: [Tolulope Odesanmi](https://www.linkedin.com/in/toby-gold/)
 
 ---
